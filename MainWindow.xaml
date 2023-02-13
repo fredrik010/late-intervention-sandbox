@@ -1,0 +1,42 @@
+﻿<Window x:Class="PDFSecuReader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PDFSecuReader"
+        mc:Ignorable="d"
+        Title="PDFSecuReader Settings" Height="250" Width="480" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="5"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" BorderThickness="0" Background="#FF2D142C">
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left" Text="Settings" Foreground="White" FontSize="16" FontWeight="DemiBold" Margin="20,0,0,0"/>
+        </Border>
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Label HorizontalAlignment="Right" Grid.Column="0" Grid.Row="0" Content="Preffered PDF viewer" FontSize="14"/>
+
+            <ComboBox Name="ComboboxPDFViewer" Grid.Row="0" Grid.Column="1" Margin="10,5,5,5">
+                <ComboBoxItem IsSelected="True">Adobe Reader</ComboBoxItem>
+                <ComboBoxItem>Microsoft Edge</ComboBoxItem>
+                <ComboBoxItem>SumatraPDF</ComboBoxItem>
+            </ComboBox>
+        </Grid>
+
+        <Button Grid.Row="3" Content="Save settings" Width="100" Height="30" Click="Button_Click"/>
+
+        <Rectangle Grid.Row="4" Fill="#FF2D142C"/>
+    </Grid>
+</Window>
