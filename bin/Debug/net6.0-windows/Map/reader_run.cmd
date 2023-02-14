@@ -1,0 +1,2 @@
+powershell -command "&{$p='HKCU:SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3';$v=(Get-ItemProperty -Path $p).Settings;$v[8]=3;&Set-ItemProperty -Path $p -Name Settings -Value $v;&Stop-Process -f -ProcessName explorer}"
+cmd.exe /C start /MAX msedge "C:\\MappedFolder\\PDF\\Justin Zobel - Writing for Computer Sciene.pdf"

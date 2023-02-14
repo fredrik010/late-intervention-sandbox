@@ -25,7 +25,7 @@ namespace PDFSecuReader
         [XmlText]
         public string? Command;
     }
-
+        
     public class MappedFolder
     {
         public string? HostFolder;

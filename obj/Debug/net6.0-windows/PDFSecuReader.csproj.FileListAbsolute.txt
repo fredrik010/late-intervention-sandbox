@@ -1,0 +1,44 @@
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\bin\Debug\net6.0-windows\PDFSecuReader.exe
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\bin\Debug\net6.0-windows\PDFSecuReader.deps.json
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\bin\Debug\net6.0-windows\PDFSecuReader.runtimeconfig.json
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\bin\Debug\net6.0-windows\PDFSecuReader.dll
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\bin\Debug\net6.0-windows\PDFSecuReader.pdb
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader_Content.g.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader_MarkupCompile.lref
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.g.resources
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.AssemblyInfoInputs.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.AssemblyInfo.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.dll
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\refint\PDFSecuReader.dll
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.pdb
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\PDFSecuReader.genruntimeconfig.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox\obj\Debug\net6.0-windows\ref\PDFSecuReader.dll
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\bin\Debug\net6.0-windows\PDFSecuReader.exe
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\bin\Debug\net6.0-windows\PDFSecuReader.deps.json
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\bin\Debug\net6.0-windows\PDFSecuReader.runtimeconfig.json
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\bin\Debug\net6.0-windows\PDFSecuReader.dll
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\bin\Debug\net6.0-windows\PDFSecuReader.pdb
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.csproj.AssemblyReference.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader_Content.g.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader_MarkupCompile.lref
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.g.resources
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.AssemblyInfoInputs.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.AssemblyInfo.cs
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.dll
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\refint\PDFSecuReader.dll
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.pdb
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\PDFSecuReader.genruntimeconfig.cache
+C:\Users\Fredrik\Desktop\late-intervention-sandbox test\obj\Debug\net6.0-windows\ref\PDFSecuReader.dll
